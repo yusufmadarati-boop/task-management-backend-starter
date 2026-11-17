@@ -1,0 +1,19 @@
+{
+  "name": "task-management-backend-starter",
+  "version": "1.0.0",
+  "description": "Task Management Backend Starter built with Node.js ESM and in-memory data",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "esm",
+    "task-management",
+    "backend"
+  ],
+  "author": "Yusuf Madarat",
+  "license": "ISC"
+}
