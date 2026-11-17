@@ -47,7 +47,7 @@ task-management-backend-starter/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yusufmadarat/task-management-backend-starter.git
+git clone https://github.com/yusufmadarati-boop/task-management-backend-starter.git
 cd task-management-backend-starter
 ```
 
